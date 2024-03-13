@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     std::string text = "Ya dostayu iz shirokih shtanin duplikatom bestsennogo gruza. Chitaite, zaviduite, ya - grazhdanin Sovetskogo Soyuza.";
-    std::string signs = ",.!:;!(){}[]<>";
+    std::string signs = ",.!:;!(){}[]<>-";
     std::string word;
     std::vector<std::string> words;
     std::vector<int> numbers;
